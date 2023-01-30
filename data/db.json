@@ -1,0 +1,19 @@
+{
+"jobs":[
+{
+    "name": "John",
+    "age": 31,
+    "city": "New York"
+},
+{
+    "name": "mac",
+    "age": 33,
+    "city": "York"
+},
+{
+    "name": "Can",
+    "age": 30,
+    "city": "Cicago"
+}
+]
+}
